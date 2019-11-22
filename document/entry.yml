@@ -14,7 +14,7 @@ info:
 ################################################################################
 #                  Host, Base Path, Schemes and Content Types                  #
 ################################################################################
-host: test-backend.sangsay.com
+host: node-demo.sangsay.com
 basePath: /
 schemes:
   - http

@@ -5,7 +5,7 @@
     "title": "demo API",
     "description": "API document for test-backend server。The API follow typical RESTful API design pattern. \nWithout special a response payload should be {\"message\": \"respnse description\", \"code\": \"error code\", \"[data]\": \"response data\" }.\nThe code refer to Code definition\n"
   },
-  "host": "test-backend.sangsay.com",
+  "host": "node-demo.sangsay.com",
   "basePath": "/",
   "schemes": [
     "http"
